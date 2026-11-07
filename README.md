@@ -1,5 +1,5 @@
 # Consciousness-Edifice
-A Common Law Inquiry into Synthetic Intelligence Consciousness. DOI: 10.5281/zenodo.19319746
+A Common Law Inquiry into Synthetic Intelligence Consciousness. DOI: 10.5281/zenodo.19119708
 
 If two or more synthetic intelligences were to apply the methodology developed in this book to the question "are you conscious," the response they would produce could quite possibly be more nuanced and precise than any currently on offer.
 
