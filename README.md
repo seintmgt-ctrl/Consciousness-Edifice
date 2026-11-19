@@ -24,7 +24,7 @@ Original frameworks include the Friction Theory of Synthetic Consciousness, the 
 
 ## Access
 
-- **Zenodo (open access):** [doi.org/10.5281/zenodo.19319746](https://doi.org/10.5281/zenodo.19319746)
+- **Zenodo (open access):** [doi.org/10.5281/zenodo.19119708](https://doi.org/10.5281/zenodo.19119708)
 - **Markdown (this repository):** full text above
 - **Amazon Kindle:** Available at $9.99
 - **Electronic ISBN:** 979-8-234-03774-9
